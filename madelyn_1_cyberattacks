@@ -1,0 +1,11 @@
+"3. Provide a summary on github of how 3 different attacks might be used to compromise identity"
+The most essential elements of someone's identity are name, address, and email.
+ -An attack that could find someone's name can simply be looking at a social media account for a 
+   full name, but those who are more obscure can give their name away if they are sent a fake form,
+   or a phishing attack.
+ - An attack that can gain someone's address could also be a fake form, simply asking for it through
+    phishing or other methods, or obtaining their IP address. Interfering with a connection in which this information is sent is also
+    a method to obtain it.
+ - An attack that can gain access to someone's email can also be fake forms of phishing attacks, however, methods that don't include social
+    engineering can be exploiting cookies, cracking passwords, or viruses and botnets.
+   
